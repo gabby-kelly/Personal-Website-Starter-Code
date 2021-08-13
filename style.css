@@ -1,0 +1,16 @@
+/* STYLE SECTIONING TAGS */
+body {
+ background-color: lavenderblush; 
+}
+
+/* STYLE TEXT */
+
+h1 {
+  color: coral;
+}
+
+/* STYLE IMAGES */
+#gibby{
+  width: 200px
+}
+/* STYLE NAV BAR */
